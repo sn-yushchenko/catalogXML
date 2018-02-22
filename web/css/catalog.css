@@ -1,0 +1,14 @@
+#catalog-button{
+    display:block;
+    cursor:pointer;
+}
+li{
+    list-style-type: circle;
+    cursor:pointer;
+}
+ul{
+    display: none;
+}
+.null{
+    display: block;
+}
